@@ -1,0 +1,9 @@
+com\unincor\escola_db\exceptions\CadastroException.class
+com\unincor\escola_db\model\services\AlunoService.class
+com\unincor\escola_db\model\domain\Curso.class
+com\unincor\escola_db\model\dao\AlunoDao.class
+com\unincor\escola_db\model\services\CursoService.class
+com\unincor\escola_db\model\domain\Aluno.class
+com\unincor\escola_db\configurations\MySQL.class
+com\unincor\escola_db\model\dao\CursoDao.class
+com\unincor\escola_db\Escola_db.class
